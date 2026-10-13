@@ -1,0 +1,63 @@
+/* Color Palette
+#0B1120 - color 1 Background
+#151E32 - color 2 Background 2
+#F8FAFC - color 3 Headers
+#94A3B8 - color 4 Text
+#38BDF8 - color 5 Links
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    background: #0B1120;
+    color: #F8FAFC;
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Serif', serif;
+}
+h1, h2, h3 {
+    color: #F8FAFC;
+}
+p {
+    color: #94A3B8;
+    
+}
+a {
+    color: #38BDF8;
+}
+h1{
+    font-size: 2.5em;
+    font-weight: 500;
+}
+h2{
+    font-size: 2em;
+    font-weight: 700;
+}
+h3{
+    font-size: 1.3em;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+header, footer {
+    background: #151E32;
+    padding: 10px;
+}
+header {
+    padding-bottom: 10px;
+    
+}
+
+
+/* Work Experience
+------------------------------------*/
+
+
+
+/* Education
+------------------------------------*/
+#education{
+    background: #0B1120;
+    padding: 10px;
+}
